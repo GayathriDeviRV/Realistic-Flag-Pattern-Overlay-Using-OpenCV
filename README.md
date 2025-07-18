@@ -63,7 +63,7 @@ python app.py
 ---
 
 ## Prerequisites
-- Python 3.x
+- Python 3.6+
 - OpenCV
 - NumPy
 - Gradio

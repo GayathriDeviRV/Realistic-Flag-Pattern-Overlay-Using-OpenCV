@@ -63,3 +63,12 @@ python app.py
 
 ---
 
+## Cloning the Repository
+To clone the repository and get started:
+```bash
+git clone https://github.com/GayathriDeviRV/Realistic-Flag-Pattern-Overlay-Using-OpenCV.git
+cd Realistic-Flag-Pattern-Overlay-Using-OpenCV
+```
+
+---
+

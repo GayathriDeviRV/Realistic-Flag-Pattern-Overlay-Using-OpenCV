@@ -1,4 +1,4 @@
-# Realistic-Flag-Pattern-Overlay-Using-OpenCV
+# Realistic Flag Pattern Overlay Using OpenCV
 This project provides two Python scripts for realistically applying a pattern or texture onto a flag image, taking into account its perspective and folds. It effectively simulates mapping a pattern onto a curved surface, such as a flag, to produce photorealistic results. The project leverages OpenCV for image processing and offers both a command-line interface and a user-friendly web application.
 
 ---

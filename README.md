@@ -30,7 +30,6 @@ This is the foundational script that performs the image processing.
 3. Follow the on-screen instructions to click the four corners of the flag (Top-Left, Top-Right, Bottom-Right, Bottom-Left).
 
 ![Output](output/Output2.jpg)
-![Output](output/Output.jpg)
 
 ### 2. `app.py` – Gradio Web Application
 
@@ -57,6 +56,7 @@ python app.py
 5. Upload your images, adjust the sliders, and click "Apply Pattern to Flag".
 
 ![Gradio Output](output/pic1.jpeg)
+![Gradio Output](output/pic2.jpeg)
 
 ---
 

@@ -57,6 +57,8 @@ python app.py
 
 ![Gradio Output](output/pic1.jpeg)
 ![Gradio Output](output/pic2.jpeg)
+![Gradio Output](output/pic3.jpeg)
+![Gradio Output](output/pic4.jpeg)
 
 ---
 

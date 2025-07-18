@@ -55,10 +55,10 @@ python app.py
 4. Open the displayed URL in your browser (e.g., http://127.0.0.1:7860).
 5. Upload your images, adjust the sliders, and click "Apply Pattern to Flag".
 
-![Gradio Output](output/pic1.jpeg)
-![Gradio Output](output/pic2.jpeg)
-![Gradio Output](output/pic3.jpeg)
-![Gradio Output](output/pic4.jpeg)
+![Gradio Output](output/img1.jpeg)
+![Gradio Output](output/img2.jpeg)
+![Gradio Output](output/img3.jpeg)
+![Gradio Output](output/img4.jpeg)
 
 ---
 

@@ -57,7 +57,6 @@ python app.py
 5. Upload your images, adjust the sliders, and click "Apply Pattern to Flag".
 
 ![Gradio Output](output/pic1.jpeg)
-![Gradio Output](output/pic2.jpeg)
 
 ---
 

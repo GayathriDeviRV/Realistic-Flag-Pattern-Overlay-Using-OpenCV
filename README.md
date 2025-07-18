@@ -29,6 +29,8 @@ This is the foundational script that performs the image processing.
    ```
 3. Follow the on-screen instructions to click the four corners of the flag (Top-Left, Top-Right, Bottom-Right, Bottom-Left).
 
+![Output](output/Output2.jpg)
+
 ### 2. `app.py` – Gradio Web Application
 
 This script provides a web interface for easier interaction using the Gradio library.
